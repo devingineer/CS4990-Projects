@@ -1,2 +1,5 @@
-# CS4990-Project1
-Data Visualization - Weber's Law
+# CS4990 Data Visualization - Projects
+
+## Project 1: Human Perception - Weber's Law
+
+## Project 2: Text & Document Visualization
